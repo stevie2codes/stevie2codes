@@ -6,6 +6,8 @@
 
 ## ![Stephens github stats](https://github-readme-stats.vercel.app/api?username=stevie2codes&show_icons=true&theme=synthwave)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevie2codes&hide=javascript,html)](https://github.com/stevie2codes/github-readme-stats)
+
 - 🌱 I’m currently learning Express with GraphQL
 - :school: Studied Full-Stack Web Development at Vanderbilt University
 - :computer: StartingUx/Ui Product Design Course at Nashville Software Scool In the fall.
