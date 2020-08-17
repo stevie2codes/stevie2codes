@@ -4,7 +4,7 @@
 
 ## Im a Full-Stack Web Developer with a passion for the Front-end. I love sharing my knowledge and learning from others as much as possible. Im always studying new technologies and creating new projects. Check out my [Portfolio](https://www.stephenwebb.dev/) to see some of my latest work.
 
-[![Visits Badge](https://badges.pufler.dev/visits/stevie2codes/stevie2codes)]
+![Repos Badge](https://badges.pufler.dev/repos/stevie2codes)
 
 ## ![Stephens github stats](https://github-readme-stats.vercel.app/api?username=stevie2codes&include_all_commits=true&show_icons=true&theme=onedark)
 
@@ -30,3 +30,5 @@
 - :school: Studied Full-Stack Web Development at Vanderbilt University
 - :computer: StartingUx/Ui Product Design Course at Nashville Software Scool In the fall.
 - ⚡ Fun fact: I Am a distance Runner.
+
+![Visits Badge](https://badges.pufler.dev/visits/stevie2codes/stevie2codes)
