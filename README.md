@@ -4,6 +4,8 @@
 
 ## Im a Full-Stack Web Developer with a passion for the Front-end. I love sharing my knowledge and learning from others as much as possible. Im always studying new technologies and creating new projects. Check out my [Portfolio](https://www.stephenwebb.dev/) to see some of my latest work.
 
+[![Visits Badge](https://badges.pufler.dev/visits/stevie2codes/stevie2codes)]
+
 ## ![Stephens github stats](https://github-readme-stats.vercel.app/api?username=stevie2codes&include_all_commits=true&show_icons=true&theme=onedark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevie2codes)](https://github.com/stevie2codes/github-readme-stats)
