@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-## Im a Full-Stack Web Developer with a passion for the Front-end. I love sharing my knowledge and learning from others as much as possible. Im always studying new technologies and creating new projects. Check out my [Portfolio](https://www.stephenwebb.dev/) to see some of my latest work.
+## Im a Front-end Web Developer with a focus on React. I love sharing my knowledge and learning from others as much as possible. Im always studying new technologies and creating new projects. Check out my [Portfolio](https://www.stephenwebb.dev/) to see some of my latest work.
 
 ![Repos Badge](https://badges.pufler.dev/repos/stevie2codes)
 
