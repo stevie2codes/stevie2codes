@@ -26,9 +26,7 @@
 
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 
-- 🌱 I’m currently learning Express with GraphQL
 - :school: Studied Full-Stack Web Development at Vanderbilt University
-- :computer: StartingUx/Ui Product Design Course at Nashville Software Scool In the fall.
 - ⚡ Fun fact: I Am a distance Runner.
 
 ![Visits Badge](https://badges.pufler.dev/visits/stevie2codes/stevie2codes)
