@@ -1,8 +1,7 @@
-# [![Header](https://res.cloudinary.com/df9q0hnuw/image/upload/v1597610271/Logos/coverGit_ovlihg.png)](https://www.stephenwebb.dev/)
+
 
 ### Hi there 👋
 
-## Im a Front-end Web Developer with a focus on React. I love sharing my knowledge and learning from others as much as possible. Im always studying new technologies and creating new projects. Check out my [Portfolio](https://www.stephenwebb.dev/) to see some of my latest work.
 
 ![Repos Badge](https://badges.pufler.dev/repos/stevie2codes)
 
@@ -27,6 +26,6 @@
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 
 - :school: Studied Full-Stack Web Development at Vanderbilt University
-- ⚡ Fun fact: I Am a distance Runner.
+
 
 ![Visits Badge](https://badges.pufler.dev/visits/stevie2codes/stevie2codes)
