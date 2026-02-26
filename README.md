@@ -1,24 +1,28 @@
+<div align="center">
 
-### Hi there 👋
+# Hey, I'm Stephen 👋
 
-## 📊 GitHub Stats
-![Stephen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=stevie2codes&include_all_commits=true&show_icons=true&theme=onedark)
+### Designer & Developer · Civic Tech Enthusiast · Data Nerd
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stevie2codes&layout=compact&theme=onedark)](https://github.com/stevie2codes)
+[![Profile Views](https://komarev.com/ghpvc/?username=stevie2codes&color=blueviolet&style=for-the-badge)](https://github.com/stevie2codes)
 
-## 🛠 Daily Technologies
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=Vue.js)
-![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
-![ESLint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
-![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
+</div>
 
-- 🎓 Studied Full-Stack Web Development at Vanderbilt University
+---
 
-![Profile Views](https://komarev.com/ghpvc/?username=stevie2codes&color=blue&style=flat-square)
+### 🧠 About Me
+
+- 🎓 Full-Stack Web Development @ **Vanderbilt University**
+- 🎨 Designer by day — I work on AI-powered tools for government SaaS applications
+- 📊 Obsessed with open data, municipal datasets, and public transparency
+- 🤖 Currently exploring **AI + natural language interfaces** for data reporting
+- 🏙️ Love digging into city data — crime stats, 311 calls, public safety trends
+
+---
+
+### 🛠 Daily Technologies
+
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000)
+![React](https://img.shields.io/badge/-React-%23
