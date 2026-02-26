@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7B2FBE&width=600&lines=Hey%2C+I'm+Stephen+%F0%9F%91%8B;Designer+%26+Developer;Civic+Tech+%2B+Open+Data+Nerd;Building+AI+tools+for+gov+SaaS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7B2FBE&width=600&lines=Hey%2C+I'm+Stephen+%F0%9F%91%8B;Designer+%26+Developer;Tech+%2B++Data+Nerd;Building+AI+tools+for+gov+SaaS)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=stevie2codes&color=blueviolet&style=for-the-badge)](https://github.com/stevie2codes)
 
@@ -14,7 +14,7 @@
 - 🎨 Designer by day — working on AI-powered tools for government SaaS applications
 - 📊 Obsessed with open data, municipal datasets, and public transparency
 - 🤖 Currently exploring **AI + natural language interfaces** for data reporting
-- 🏙️ Love digging into city data — crime stats, 311 calls, public safety trends
+- 🏙️ Love digging into data
 
 ---
 
