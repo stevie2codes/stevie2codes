@@ -10,12 +10,10 @@
 
 ### 🧠 About Me
 
-- 🎓 Full-Stack Web Development @ **Vanderbilt University**
-- 🎨 Designer by day — working on AI-powered tools for government SaaS applications
-- 📊 Obsessed with open data, municipal datasets, and public transparency
+- 🎨 Senior Product Designer by day — working on AI-powered tools for government SaaS applications
+- - 🎓 Studied Full-Stack Web Development @ **Vanderbilt University**
 - 🤖 Currently exploring **AI + natural language interfaces** for data reporting
-- 🏙️ Love digging into data
-
+- 🏙️ Constantly curious about new technologies
 ---
 
 ### 🔭 Currently Building
